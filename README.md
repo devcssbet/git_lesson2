@@ -8,3 +8,4 @@ Git is version control system that prevents us from having the "final doc" probl
 
 Git takes snapshots of the entire repository for us to revert back to.
 
+--FIXES APPLIED
