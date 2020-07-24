@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 # A file used by the collaborator
 an edit made by the owner.
+=======
+# file used by the collaborator
+
+edit made by the owner
+
+>>>>>>> ec346839204bbb220fd852cd2d7a29a06a3191c6
 
 I am a collaborator!
 
